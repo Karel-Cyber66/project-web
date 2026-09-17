@@ -21,6 +21,10 @@
             Data Siswa
         </a>
 
+        <a class="btn" href="guru/index.php">
+            Data Guru
+        </a>
+
     </div>
 
 </body>
